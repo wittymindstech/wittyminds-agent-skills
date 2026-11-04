@@ -1,0 +1,23 @@
+{
+  "candidate_name": "Example Candidate",
+  "resume_text": "Example resume text goes here. Replace with authorized, consented candidate data.",
+  "experience_years": 5,
+  "candidate_type": "Experienced Developer",
+  "target_role": "Senior Full Stack Developer",
+  "job_description": "Example job description with backend, frontend, cloud and API requirements.",
+  "evaluation_type": "Comprehensive Assessment",
+  "evaluation_parameters": [
+    "Backend Development",
+    "Frontend Development",
+    "SQL and NoSQL",
+    "REST APIs",
+    "Cloud Deployment",
+    "Debugging",
+    "System Design"
+  ],
+  "include_interview_questions": true,
+  "number_of_questions": 10,
+  "include_project_analysis": true,
+  "include_skill_gap_analysis": true,
+  "scoring_scale": 4
+}

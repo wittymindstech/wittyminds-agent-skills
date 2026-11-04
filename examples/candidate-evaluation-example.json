@@ -1,0 +1,31 @@
+{
+  "candidate_profile": {
+    "primary_profile": "Experienced Developer",
+    "secondary_profiles": [
+      "Full Stack Developer"
+    ],
+    "total_experience_years": 5
+  },
+  "competency_assessment": [
+    {
+      "name": "Backend Development",
+      "score": 3,
+      "weight": 20,
+      "evidence_status": "professional_project",
+      "evidence": [
+        "Example evidence from resume; replace with source-backed excerpt."
+      ],
+      "verification_required": false
+    },
+    {
+      "name": "Kafka",
+      "score": 1,
+      "weight": 10,
+      "evidence_status": "skill_list_only",
+      "evidence": [],
+      "verification_required": true
+    }
+  ],
+  "scoring_note": "Example only. Calculate weighted scores in deterministic backend code using a validated rubric.",
+  "human_review_required": true
+}
