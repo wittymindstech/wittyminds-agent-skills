@@ -262,6 +262,41 @@ Differentiate solution architecture from technical architecture based on
 the role definition and evidence. Do not assume every organization uses
 these titles identically.
 
+## 5.8 GenAI & Agentic AI Engineer 
+
+Evaluate GenAI Skills, Agentic AI Skills, RAG implementation , Agent Orchestration, Model Tuning,
+MCP Server Client Implementation, Vector Databases
+
+LLM fundamentals and prompt engineering.
+RAG pipelines, embeddings, vector search and reranking.
+Agent orchestration and multi-agent architecture.
+
+MCP servers, clients and tool integrations.
+
+Azure AI Foundry, AWS Bedrock, Google Vertex AI.
+
+LLM gateways, model routing and cost optimization.
+
+Evaluation, hallucination control and guardrails.
+
+RBAC, enterprise security and governance.
+
+Production deployment, scalability, monitoring and observability.
+
+
+
+Resume positioning based on actual project ownership and measurable outcomes.
+
+## 5.9 GenAI & Agentic AI Architect 
+
+Evaluate deep technical expertise in Generative AI, LLM architecture, enterprise AI solutions, knowledge engineering, model optimization, and production-grade GenAI platform design.
+
+Assess: - LLM architecture, foundation models, Small Language Models (SLMs), Transformer fundamentals, tokenization, context windows, and inference mechanisms. - Generative AI application architecture, end-to-end solution design, LLM integration, API orchestration, and enterprise application integration. - RAG architecture, document ingestion, parsing, OCR, semantic and hierarchical chunking, embeddings, vector indexing, retrieval, reranking, and context construction. - Advanced retrieval strategies, semantic search, keyword search, BM25, hybrid search, metadata filtering, query rewriting, and retrieval optimization. - Vector databases, embedding models, vector dimensions, similarity algorithms, HNSW indexing, ANN search, and vector index optimization. - Prompt engineering, system prompts, few-shot prompting, structured outputs, prompt templates, context management, and prompt versioning. - Fine-tuning and model customization, including SFT, LoRA, QLoRA, PEFT, instruction tuning, quantization, and domain adaptation. - Model selection and integration across OpenAI, Azure OpenAI, Amazon Bedrock, Google Vertex AI, Llama, Qwen, Mistral, and other foundation models. - LLM Gateway architecture, multi-model routing, provider abstraction, fallback strategies, rate limiting, caching, token management, and inference optimization. - Cloud AI architecture using Azure AI Foundry, Azure AI Search, Azure AI Document Intelligence, Amazon Bedrock, Bedrock Knowledge Bases, and Google Vertex AI. - Self-hosted LLM deployment, GPU infrastructure, model serving, vLLM, Hugging Face, Ollama, and inference optimization. - LLM evaluation, RAGAS, DeepEval, groundedness, faithfulness, context precision, context recall, answer relevance, golden datasets, and regression testing. - Hallucination detection, response validation, responsible AI, content moderation, prompt injection prevention, and output guardrails. - Enterprise AI security, RBAC, ABAC, managed identities, OAuth2, JWT, tenant isolation, encryption, secrets management, and permission-aware document retrieval. - AI data engineering, document processing pipelines, metadata extraction, data normalization, incremental indexing, data lineage, and knowledge-base lifecycle management. - Performance engineering, token optimization, semantic caching, prompt caching, batching, concurrency, throughput, latency, and cost optimization. - AI infrastructure, LLMOps, MLOps, CI/CD, Docker, Kubernetes, infrastructure as code, model versioning, deployment automation, and observability. - Scalability, high availability, distributed inference, asynchronous processing, queue-based architectures, retries, failover, monitoring, and disaster recovery. - Enterprise integrations with APIs, databases, CRM, ERP, SAP, Salesforce, SharePoint, and document management systems. - Technical architecture governance, HLD, LLD, architecture diagrams, reference architectures, technology evaluations, POCs, and design validation. - Business requirement analysis, GenAI use-case identification, feasibility assessment, solution costing, ROI estimation, and measurable business outcomes.
+
+Look for evidence of designing and delivering production-grade GenAI applications, enterprise RAG platforms, knowledge assistants, document intelligence solutions, LLM gateways, model evaluation frameworks, and secure AI infrastructure.
+
+Differentiate GenAI architecture expertise from basic LLM API integration, prompt engineering, or chatbot development. Evaluate actual architecture ownership, hands-on implementation, model engineering, retrieval optimization, security, scalability, and production deployment. Do not assume that using a particular LLM framework or cloud AI service alone demonstrates GenAI architecture expertise.
+
 ## 6. Resume parsing and normalization
 
 Extract and normalize the following where available: - Candidate name
